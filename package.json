@@ -1,0 +1,28 @@
+{
+  "name": "p2pcat",
+  "version": "0.0.0",
+  "description": "A netcat like utility but for the p2p Internet",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasdavid/js-p2pcat.git"
+  },
+  "keywords": [
+    "P2P",
+    "libp2p",
+    "IPFS",
+    "interplanetary",
+    "networks",
+    "net",
+    "transports"
+  ],
+  "author": "David Dias <mail@daviddias.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasdavid/js-p2pcat/issues"
+  },
+  "homepage": "https://github.com/diasdavid/js-p2pcat#readme"
+}
